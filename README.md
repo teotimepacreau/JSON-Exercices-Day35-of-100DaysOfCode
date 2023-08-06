@@ -10,9 +10,6 @@ https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/16_Day_JSON/16_day
   return newValue
 })`
 - change something JS in JSON with `JSON.stringify(obj, replacer, space)`//The replacer is used as filter and the space is an indentations. If we do not want to filter out any of the keys from the object we can just pass undefined.
-- 
-
-const txt = JSON.stringify(users, undefined, 4)
 
 # 🛠️ 
 Vanilla Javascript
